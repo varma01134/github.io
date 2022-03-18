@@ -130,13 +130,47 @@ h1 {
 .show-inline {
   display: inline;
 }
-
-.social-media {
-    color: rgb(25, 25, 233);
+ .fa {
+      padding: 8px;
+      font-size: 60px;
+      width: 30px;
+      text-align: center;
+      text-decoration: none;
+      margin: 6px 6px;
+   }
+        
+.fa-facebook {
+    background: rgb(59, 89, 152);
+    color: white;
+ }
+        
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
 }
-
-.social-media-2x {
-  font-size: 26px;
+        
+.fa-instagram {
+    width: 30px;
+    height: 28px;
+    background: #f09433;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: -webkit-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888', GradientType=1);
+}
+        
+.fa-whatsapp {
+     color: white;
+      background-color: rgb( 37, 211, 102);
+ }
+ .fa-github {
+     color: white;
+     background-color: black;
+  }
+        
+.fa-linkedin {
+    background: rgb(10, 102, 194);
+    color: white;
 }
 
 .bg-coral {
