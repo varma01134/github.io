@@ -173,6 +173,21 @@ h1 {
     color: white;
 }
 
+.fa-google {
+  position: relative;
+  border-top: 10px solid #EA4335;
+  border-right: 10px solid #4285F4;
+  border-bottom: 10px solid #34A853;
+  border-left: 10px solid #FBBC05;
+  border-radius: 2%;
+  background-color: #FFFFFF;
+  width: 35px;
+  height: 35px;
+  padding: 0;
+  margin: 1vh auto 0;
+  color: black;
+}
+
 .bg-coral {
   background-color: coral;
 }
